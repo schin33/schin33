@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schin33" alt="schin33" /></a> </p>
 
-- 🔭 I’m currently working on [rami-analysis](https://github.com/rev-sec/project-2025/tree/main/src/rami-analysis)
+- 🔭 I’m currently working on [Billing Data ETL](https://github.com/rev-sec/project-2025/tree/main/src/development_DB)
 
 - 🌱 I’m currently learning **Streamlit, Apache NiFi**
 
